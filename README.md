@@ -15,9 +15,9 @@ The training set contains 70% of the dataset above, the test set of public leade
 
 # The Result
 
-166 participants from multiple countries around the world
-1274 submissions during the 1 month of the challenge
-Best Accuracy score 0.71056 on the private portion of the test set
+* 166 participants from multiple countries around the world
+* 1274 submissions during the 1 month of the challenge
+* Best Accuracy score 0.71056 on the private portion of the test set
 
 You can find the notebooks and report of each winning solution in this repository.
 
